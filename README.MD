@@ -2,11 +2,11 @@
 
 ### File `main1.py`
 
-File ini lebih nyaman digunakan karena mengurangi kemungkinan kesalahan saat menekan tombol bom. Namun, pastikan untuk menyesuaikan nilai `window_name` dengan nama jendela yang sesuai dengan pengaturan Anda.
+File ini lebih nyaman digunakan karena kita dapat menghentikan botnya dengan menekan tombol 'q' pada keyboard Namun, terkadang botnya tidak sengaja menekan bom, jika ada kesalahan. Periksa pada bagian `window_name` temukan menggunakan `crtl+f` pada code anda dan ketikan `window_name`. semoga lu paham cuy
 
 ### File `main2.py` 
 
-Penggunaan file ini memungkinkan untuk menekan tombol secara berulang dengan cepat, namun kadang-kadang dapat menekan di luar layar. Pastikan layar Anda disetel dengan benar saat menggunakan skrip ini.
+Penggunaan file ini memungkinkan untuk menekan tombol secara berulang dengan cepat, namun kadang-kadang dapat menekan di luar layar. dan itu membuat bot tidak dapat menekan bintang pada permainan dikarenakan muncul sebuah popup yang tidak di inginkan
 
 ### Instalasi Modul
 
@@ -19,3 +19,5 @@ Pastikan untuk menginstal semua modul yang dibutuhkan sebelum menjalankan skrip 
 ## MODUL `main2.py`
 
 ```pip numpy opencv-python keyboard mss pygetwindow pywin32 pywinauto```
+
+# BAIKLAH SEMOGA BERMANFAAT
