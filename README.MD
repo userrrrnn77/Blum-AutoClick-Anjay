@@ -1,5 +1,7 @@
 ## Instruksi Penggunaan File
 
+# COPAS SALAH 1 AJA BRO DARI KEDUA FILE ITU DAN JANGAN LUPA UNTUK INSTALL MODULNYA!!!
+
 ### File `main1.py`
 
 File ini lebih nyaman digunakan karena kita dapat menghentikan botnya dengan menekan tombol 'q' pada keyboard Namun, terkadang botnya tidak sengaja menekan bom, jika ada kesalahan. Periksa pada bagian `window_name` temukan menggunakan `crtl+f` pada code anda dan ketikan `window_name`. semoga lu paham cuy
